@@ -1,0 +1,25 @@
+﻿@model BulkyBook.Models.CoverType
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row">
+            <h2 class="text-primary" style="color:white!important">
+                Create CoverType
+            </h2>
+        </div>
+        <div asp-validation-summary="All"></div> @*Lists all validation errors on the top. Using this for server side validation msg display.*@
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span> @*Used to show validation error for Name. Using this to display server side validation message.*@
+        </div>
+        <button type="submit" class="btn btn-primary" style="background-color:orangered; width:150px">Submit</button>
+        <a asp-controller="CoverType" asp-action="Create" class="btn btn-primary" style="width:150px">Back</a>
+    </div>
+</form>
+
+@section Scripts{   @*using partial view for client side validation*@
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+}
