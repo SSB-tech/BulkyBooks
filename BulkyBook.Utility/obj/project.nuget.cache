@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SvxY/veQTj2CIUMUsVK2KvG6gJiJZt3+t5X0CyHYWhsMGdE4P6wyIJm2YBY+Q9zdWu/M46Ygb4POygnL4icZYA==",
+  "dgSpecHash": "64UQq4iQiE2pVAzt2wBHDvFCQy2yhqv3nLbJhJbf0rhBRb1p84m66vq3wmZ9pcDUKq8dVbUAdwU72CRTzl000w==",
   "success": true,
-  "projectFilePath": "F:\\DOTNET\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\basne\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\basne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

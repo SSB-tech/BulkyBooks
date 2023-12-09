@@ -11,3 +11,16 @@ F:\DOTNET\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
 F:\DOTNET\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
 F:\DOTNET\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
 F:\DOTNET\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.sourcelink.json
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll

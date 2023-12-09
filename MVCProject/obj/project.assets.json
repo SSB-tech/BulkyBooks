@@ -13517,19 +13517,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sushant.basnet\\.nuget\\packages\\": {}
+    "C:\\Users\\basne\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DOTNET\\BulkyBook\\MVCProject\\MVCProject.csproj",
+      "projectUniqueName": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\MVCProject\\MVCProject.csproj",
       "projectName": "MVCProject",
-      "projectPath": "F:\\DOTNET\\BulkyBook\\MVCProject\\MVCProject.csproj",
-      "packagesPath": "C:\\Users\\sushant.basnet\\.nuget\\packages\\",
-      "outputPath": "F:\\DOTNET\\BulkyBook\\MVCProject\\obj\\",
+      "projectPath": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\MVCProject\\MVCProject.csproj",
+      "packagesPath": "C:\\Users\\basne\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\MVCProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sushant.basnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\basne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13543,8 +13548,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\DOTNET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "F:\\DOTNET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+            "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }

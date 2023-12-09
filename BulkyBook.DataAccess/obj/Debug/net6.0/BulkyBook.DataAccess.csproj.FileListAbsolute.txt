@@ -14,3 +14,19 @@ F:\DOTNET\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.d
 F:\DOTNET\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
 F:\DOTNET\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
 F:\DOTNET\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.sourcelink.json
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\basne\OneDrive\Desktop\Dotnet Projects\BulkyBooks\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll

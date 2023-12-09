@@ -14,6 +14,17 @@ builder.Services.AddControllersWithViews();
 IServiceCollection serviceCollection = builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(
+    option =>
+    {
+        option.Password.RequiredLength = 5;
+    }).AddEntityFrameworkStores<ApplicationDbContext>(); //Here, option.Password.RequiredLength is used to change pwd validation. Originally Pw Validation ma 6character magcha identity le register garda but tesllai modify garera 5 banako, we can also configure other options
+
+/* Same thing can also be done as below to modify password validation
+builder.Services.Configure<IdentityOptions>(option =>
+{
+    option.Password.RequiredLength = 5;
+});*/
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddRazorPages();   

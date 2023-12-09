@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DOTNET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
+    "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "F:\\DOTNET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DOTNET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "F:\\DOTNET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
-        "packagesPath": "C:\\Users\\sushant.basnet\\.nuget\\packages\\",
-        "outputPath": "F:\\DOTNET\\BulkyBook\\BulkyBook.Models\\obj\\",
+        "projectPath": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\basne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\basne\\OneDrive\\Desktop\\Dotnet Projects\\BulkyBooks\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sushant.basnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\basne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

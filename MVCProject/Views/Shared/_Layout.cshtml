@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@inject SignInManager<IdentityUser> signinManager;
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -41,6 +43,24 @@
                             <a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="ListAll">Product</a>
                             </div>
                         </li>
+                        @if (signinManager.IsSignedIn(User))
+                        {
+                            <li class="nav-item">
+                                <form method="post" asp-area="Admin" asp-controller="Account" asp-action="Logout">
+                                <button type="submit" class="nav-link btn btn-link py-0" style="width:100;">
+                                    Logout @User.Identity.Name
+                                </button>
+                                </form>
+                        </li>
+                        }
+                        else{
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Admin" asp-controller="Account" asp-action="Register">Register</a>
+                        </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Admin" asp-controller="Account" asp-action="Login">Login</a>
+                            </li>
+                        }
                     </ul>
                     <form class="d-flex">
                         <input class="form-control me-sm-2" type="search" placeholder="Search">
